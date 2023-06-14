@@ -10,8 +10,10 @@ https://gameinternals.com/understanding-pac-man-ghost-behavior
 
 I will just upload my C# scripts because I am facing some error in the unity engine, and I will write the error specifically below.
 
-All of the Sprites are come from creator of these videos. I finished all of the part he done, and the final test is also worked well. 
-However, when I restart the project , I got some errors like these.
+All of the Sprites are come from creator of these videos. You could get the Sprites from the first link I pasted. 
+
+I finished all of the part he done, and the final test is also worked well. 
+However, when I restart the project , I got some errors such like these.
 
 /*
 NullReferenceException: Object reference not set to an instance of an object
