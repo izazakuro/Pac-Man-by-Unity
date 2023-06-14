@@ -1,6 +1,6 @@
 # Pac-Man-by-Unity
 
-I useed unity to created a Pac-Man game by following the link beneath.
+I used unity to created a Pac-Man game by following the link beneath.
 
 https://www.youtube.com/watch?v=dCaimhoT4l4&list=PLHrN7HL-00e8HECYZFE-9i9Qf_SRqWxZh
 
