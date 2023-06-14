@@ -4,7 +4,13 @@ I used unity to created a Pac-Man game by following the link beneath.
 
 https://www.youtube.com/watch?v=dCaimhoT4l4&list=PLHrN7HL-00e8HECYZFE-9i9Qf_SRqWxZh
 
-And all of the Sprites are come from creator of these videos. I finished all of the part he done, and the final test is also worked well. 
+Furthermore, the logic of Ghost AI refered from the the link beneath.
+
+https://gameinternals.com/understanding-pac-man-ghost-behavior
+
+I will just upload my C# scripts because I am facing some error in the unity engine, and I will write the error specifically below.
+
+All of the Sprites are come from creator of these videos. I finished all of the part he done, and the final test is also worked well. 
 However, when I restart the project , I got some errors like these.
 
 /*
