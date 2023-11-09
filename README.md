@@ -27,3 +27,9 @@ GameManager:Awake() (at Assets/GameManager.cs:107)
 I checked all of components which should be initialized, but it is not effective.
 I think I could not solve this problem in short time. Maybe, I will fix it in the future.
 If you have some ideas, please comment by the thread. Thanks a lot!
+
+//////////
+//Upload//
+//////////
+
+The bug caused by coroutine has been fixed!
